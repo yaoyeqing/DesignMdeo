@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- declare-styleable 为规定写法，不可改 -->
+    <!-- name="MyView" name可任意填写 -->
+    <!-- 下面定义了，字体颜色，字体大小，枚举的gravity属性 -->
+    <declare-styleable name="SmartImageView">
+        <attr name="url" format="string" />
+    </declare-styleable>
+</resources>
